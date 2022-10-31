@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [`Khidma IT`]('https://khidmait.com/')
+- 🔭 I’m currently working on [`Khidma IT`](https://khidmait.com/)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
